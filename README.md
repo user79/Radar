@@ -1,5 +1,5 @@
 # Radar
-This is a Frequency Modulated Continuous Wave (FMCW) ground penetrating radar (GPR) project based loosely on the online resources from MIT and U.C.Davis, as well as the presentation by Ferrara/Chizh/Pietrelli 2017.
+This is a Frequency Modulated Continuous Wave (FMCW) ground penetrating radar (GPR) project aimed toward detection of land mines for humanitarian de-mining. It is based loosely on the online resources from MIT and U.C.Davis, as well as the presentation by Ferrara/Chizh/Pietrelli 2017.
 * https://ocw.mit.edu/courses/res-ll-003-build-a-small-radar-system-capable-of-sensing-range-doppler-and-synthetic-aperture-radar-imaging-january-iap-2011/
 * http://gpradar.eu/onewebmedia/TU1208_GPRforeducationaluse_November2017_FerraraChizhPietrelli.pdf
 * https://github.com/ucdart/UCD-EEC134/
