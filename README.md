@@ -11,4 +11,5 @@ Here I have posted the circuit design, Eagle CAD schematic, and board layout for
 
 Unfortunately, in initial testing of this board with a sawtooth voltage input to produce a standard frequency sweep (and subsequent testing with discrete DC voltage inputs), the output voltage seems to be fluctuating according to some other pattern, not related to reflectors placed at varying distances from the antennas.  My initial guess is that there is a reflection (or set of reflections) from the board itself that is causing the mixing pattern, that is overshadowing any additional reflection mixing from the receive antenna.  There may be some coupling from the traces of the PCB.  The projects above used shielded coax cable to connect the various parts, and now I can see why.
 
-The next revision of this project will likely incorporate these learned insights, and progress to the stage of recording data and analyzing the data.
+Next, in summer 2023, I did some hardware testing with a different mixer (but using the same VCO from the original board). I was able to see radar action in tracking a person walking in a hallway, as shown. However, I was hitting some fundamental limits in resolution due to sampling rate and wavelength and other issues, as described in the "GPR progress summer2023.pdf" document.
+
